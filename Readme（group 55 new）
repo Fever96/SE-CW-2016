@@ -1,0 +1,16 @@
+Readme
+
+If your operation system is MAC OS 
+Enter folder Code
+input “javac cinemaArrange/*.java ticket/*.java userInterface/*.java” in the command window to compile. 
+Then input “java userInterface/MainInterface” in the command window and you will successfully run the software.
+
+If your operation system is Windows
+Enter folder Code
+input "javac cinemaArrange/*.java ticket/*.java userInterface/*.java userInterface/customedPanels/*.java -encoding utf-8"
+in command window to compile.
+Then input "java userInterface/MainInterface" in the command window and you will successfully run the software. 
+
+When you want to view the code，please use Sublime or Notepad++ to avoid encoding error.
+
+Enjoy it :)

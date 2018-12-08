@@ -1,0 +1,8 @@
+STUDENT Ticket ID 24343242
+Student ID 123
+Screen3 
+LOGAN
+135 minutes 
+SeatC3
+Date 0
+Time 15:30

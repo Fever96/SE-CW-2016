@@ -1,0 +1,10 @@
+KONG: SKULL ISLAND: 0
+LOGAN: 0
+BEAUTY AND THE BEAST: 2
+MOONLIGHT: 0
+LA LA LAND: 0
+Adult ticket: 2
+Child ticket: 0
+Senior ticket: 0
+Student ticket: 0
+Income: 32.0
